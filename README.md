@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Vibhuti Nair  
 **Data Analyst | Analytics Engineer (In Progress) | Data Scientist Track**
 
-MCA **Academic Topper (8.9 CGPA)** with hands-on experience in **data analytics, business intelligence, and applied machine learning**.  
+MCA **Academic Topper (8.9 CGPA) (Last Sem SGPA 9.7/10 )** with hands-on experience in **data analytics, business intelligence, and applied machine learning**.  
 I specialize in transforming **raw data into actionable insights**, building **scalable analytics solutions**, and enabling **data-driven decision-making** across business and AI systems.
 
 📍 **Open to Relocation** | Actively seeking **Data Analyst / Junior Data Scientist roles**
